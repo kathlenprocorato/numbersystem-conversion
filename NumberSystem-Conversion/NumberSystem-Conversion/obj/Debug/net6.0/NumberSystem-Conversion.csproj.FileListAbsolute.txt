@@ -1,0 +1,15 @@
+C:\Users\DELL\SCHOOL\LAST YEAR\Data Networking\numbersystem-conversion\NumberSystem-Conversion\NumberSystem-Conversion\bin\Debug\net6.0\NumberSystem-Conversion.exe
+C:\Users\DELL\SCHOOL\LAST YEAR\Data Networking\numbersystem-conversion\NumberSystem-Conversion\NumberSystem-Conversion\bin\Debug\net6.0\NumberSystem-Conversion.deps.json
+C:\Users\DELL\SCHOOL\LAST YEAR\Data Networking\numbersystem-conversion\NumberSystem-Conversion\NumberSystem-Conversion\bin\Debug\net6.0\NumberSystem-Conversion.runtimeconfig.json
+C:\Users\DELL\SCHOOL\LAST YEAR\Data Networking\numbersystem-conversion\NumberSystem-Conversion\NumberSystem-Conversion\bin\Debug\net6.0\NumberSystem-Conversion.dll
+C:\Users\DELL\SCHOOL\LAST YEAR\Data Networking\numbersystem-conversion\NumberSystem-Conversion\NumberSystem-Conversion\bin\Debug\net6.0\NumberSystem-Conversion.pdb
+C:\Users\DELL\SCHOOL\LAST YEAR\Data Networking\numbersystem-conversion\NumberSystem-Conversion\NumberSystem-Conversion\obj\Debug\net6.0\NumberSystem-Conversion.csproj.AssemblyReference.cache
+C:\Users\DELL\SCHOOL\LAST YEAR\Data Networking\numbersystem-conversion\NumberSystem-Conversion\NumberSystem-Conversion\obj\Debug\net6.0\NumberSystem-Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\SCHOOL\LAST YEAR\Data Networking\numbersystem-conversion\NumberSystem-Conversion\NumberSystem-Conversion\obj\Debug\net6.0\NumberSystem-Conversion.AssemblyInfoInputs.cache
+C:\Users\DELL\SCHOOL\LAST YEAR\Data Networking\numbersystem-conversion\NumberSystem-Conversion\NumberSystem-Conversion\obj\Debug\net6.0\NumberSystem-Conversion.AssemblyInfo.cs
+C:\Users\DELL\SCHOOL\LAST YEAR\Data Networking\numbersystem-conversion\NumberSystem-Conversion\NumberSystem-Conversion\obj\Debug\net6.0\NumberSystem-Conversion.csproj.CoreCompileInputs.cache
+C:\Users\DELL\SCHOOL\LAST YEAR\Data Networking\numbersystem-conversion\NumberSystem-Conversion\NumberSystem-Conversion\obj\Debug\net6.0\NumberSystem-Conversion.dll
+C:\Users\DELL\SCHOOL\LAST YEAR\Data Networking\numbersystem-conversion\NumberSystem-Conversion\NumberSystem-Conversion\obj\Debug\net6.0\refint\NumberSystem-Conversion.dll
+C:\Users\DELL\SCHOOL\LAST YEAR\Data Networking\numbersystem-conversion\NumberSystem-Conversion\NumberSystem-Conversion\obj\Debug\net6.0\NumberSystem-Conversion.pdb
+C:\Users\DELL\SCHOOL\LAST YEAR\Data Networking\numbersystem-conversion\NumberSystem-Conversion\NumberSystem-Conversion\obj\Debug\net6.0\NumberSystem-Conversion.genruntimeconfig.cache
+C:\Users\DELL\SCHOOL\LAST YEAR\Data Networking\numbersystem-conversion\NumberSystem-Conversion\NumberSystem-Conversion\obj\Debug\net6.0\ref\NumberSystem-Conversion.dll
